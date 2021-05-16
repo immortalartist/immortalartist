@@ -1,0 +1,69 @@
+{
+  "blogitem":[
+    {
+      "id":1,
+      "imagedata":"https://play-lh.googleusercontent.com/vyoFt2cyNbOVy22uKdGJRCZ-6UB-6YMXmwbIl5-PjGpmSgLLb9hiYx5Jw9mpmIEhgg",
+      "title":"Signal",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting \n
+          industry. Lorem Ipsum has been the industry's standard dummy text ever \n
+          since the 1500s, when an unknown printer took a galley of type and \n
+          scrambled it to make a type specimen book. It has survived not only \n
+          five centuries, but also the leap into electronic typesetting, \n
+          remaining essentially unchanged. It was popularised in the 1960s with \n
+          the release of Letraset sheets containing Lorem Ipsum passages, and \n
+          more recently with desktop publishing software like Aldus PageMaker \n
+          including versions of Lorem Ipsum. Contrary to popular belief, Lorem \n
+          Ipsum is not simply random text. It has roots in a piece of classical \n
+          Latin literature from 45 BC, making it over 2000 years old. Richard \n
+          McClintock, a Latin professor at Hampden-Sydney College in Virginia, \n
+          looked up one of the more obscure Latin words, consectetur, from a \n
+          Lorem Ipsum passage, and going through the cites of the word in \n
+          classical literature, discovered the undoubtable source. Lorem Ipsum \n
+          comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et \n
+          Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. \n
+          This book is a treatise on the theory of ethics, very popular during\n
+          the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit\n
+          amet.., comes from a line in section 1.10.32.",
+      "publisher":"Alice & Bob",
+      "time": "10:58 AM",
+      "date": "16/5/2021",
+      "college": "VTU",
+    },
+    {
+      "id":2,
+      "imagedata":"https://play-lh.googleusercontent.com/vyoFt2cyNbOVy22uKdGJRCZ-6UB-6YMXmwbIl5-PjGpmSgLLb9hiYx5Jw9mpmIEhgg",
+          "title":"Signal",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting \n
+          industry. Lorem Ipsum has been the industry's standard dummy text ever \n
+          since the 1500s, when an unknown printer took a galley of type and \n
+          scrambled it to make a type specimen book. It has survived not only \n
+          five centuries, but also the leap into electronic typesetting, \n
+          remaining essentially unchanged. It was popularised in the 1960s with \n
+          the release of Letraset sheets containing Lorem Ipsum passages, and \n
+          more recently with desktop publishing software like Aldus PageMaker \n
+          including versions of Lorem Ipsum.",
+      "publisher":"Alice & Bob",
+      "time": "10:58 AM",
+      "date": "16/5/2021",
+      "college": "VTU",
+    },    {
+          "id":3,
+          "imagedata":"",
+          "youtube":"'https://www.youtube.com/embed/KJgsSFOSQv0' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'",
+              "title":"Signal",
+          "description":"Lorem Ipsum is simply dummy text of the printing and typesetting \n
+              industry. Lorem Ipsum has been the industry's standard dummy text ever \n
+              since the 1500s, when an unknown printer took a galley of type and \n
+              scrambled it to make a type specimen book. It has survived not only \n
+              five centuries, but also the leap into electronic typesetting, \n
+              remaining essentially unchanged. It was popularised in the 1960s with \n
+              the release of Letraset sheets containing Lorem Ipsum passages, and \n
+              more recently with desktop publishing software like Aldus PageMaker \n
+              including versions of Lorem Ipsum."",
+          "publisher":"Alice & Bob",
+          "time": "10:58 AM",
+          "date": "16/5/2021",
+          "college": "VTU",
+        }
+  ]
+}
